@@ -1,0 +1,131 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "age" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Age %lld"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " %lld. yaş"
+          }
+        }
+      }
+    },
+    "Alt Başlık" : {
+
+    },
+    "Ana Başlık" : {
+
+    },
+    "Delete Item" : {
+
+    },
+    "Error" : {
+
+    },
+    "Favorite" : {
+
+    },
+    "hello_world" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hello World"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Merhaba"
+          }
+        }
+      }
+    },
+    "Last Saved Item: %@" : {
+
+    },
+    "Make Request" : {
+
+    },
+    "Normal metin içeriği buraya gelecek..." : {
+
+    },
+    "Not: Küçük detaylar" : {
+
+    },
+    "OK" : {
+
+    },
+    "Profile" : {
+
+    },
+    "Request Count: %lld" : {
+
+    },
+    "row %lld" : {
+
+    },
+    "Save Item" : {
+
+    },
+    "Show Alert" : {
+
+    },
+    "Show Destructive Alert" : {
+
+    },
+    "Show Error" : {
+
+    },
+    "Show Error Alert" : {
+
+    },
+    "Show Simple Alert" : {
+
+    },
+    "welcome" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hosgeldin"
+          }
+        }
+      }
+    },
+    "welcome_user" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome to %@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Hosgeldin"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
